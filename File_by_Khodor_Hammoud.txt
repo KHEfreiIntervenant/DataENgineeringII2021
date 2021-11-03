@@ -1,6 +1,7 @@
 This is a sample file
 <<<<<<< HEAD
 <<<<<<< HEAD
+Added by Vianney Gonnot
 Added by Guillaume Jaouen
 =======
 <<<<<<< HEAD
