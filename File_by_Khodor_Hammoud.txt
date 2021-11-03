@@ -1,2 +1,4 @@
 This is a sample file
 added by Camille Omne
+added by Quentin Courtois
+Added by Guillaume Etendard
