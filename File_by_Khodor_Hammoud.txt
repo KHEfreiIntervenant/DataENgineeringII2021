@@ -2,7 +2,28 @@ This is a sample file
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added by Tom TEA. 
+=======
+Added by Elodie Gueuret
+
+
+
+
+
+
+
+
+
+
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Added by Louis G.
+=======
+Omar ALLOUACHE
+>>>>>>> c92d4ff77c6567850b52d306ec502536e91d4ae9
+>>>>>>> c9b045921875bc2712e9527878358e0505822a39
 =======
 <<<<<<< HEAD
 added by Quentin Courtois
@@ -10,6 +31,7 @@ added by Quentin Courtois
 Added by Guillaume Etendard
 >>>>>>> ce15217ee85dee37b61f134003ac12da115427c4
 >>>>>>> 5d009147b8f38b560389e31c557d4f36c1281d4f
+<<<<<<< HEAD
 =======
 Omar ALLOUACHE
 >>>>>>> 3c8416ebfdec6f119a41c04ef337e41c9abdaf2c
@@ -17,3 +39,6 @@ Omar ALLOUACHE
 this line has been added by Rémi GUIGUET
 
 >>>>>>> 8d5b111eae66fdefaa8bccd88c65f386e6023e79
+=======
+>>>>>>> 392b2f44b71911117803902a98be15631e448dd5
+>>>>>>> c9b045921875bc2712e9527878358e0505822a39
