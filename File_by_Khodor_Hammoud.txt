@@ -1,6 +1,7 @@
 This is a sample file
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added by Tom TEA. 
 =======
 <<<<<<< HEAD
@@ -12,3 +13,7 @@ Added by Guillaume Etendard
 =======
 Omar ALLOUACHE
 >>>>>>> 3c8416ebfdec6f119a41c04ef337e41c9abdaf2c
+=======
+this line has been added by Rémi GUIGUET
+
+>>>>>>> 8d5b111eae66fdefaa8bccd88c65f386e6023e79
