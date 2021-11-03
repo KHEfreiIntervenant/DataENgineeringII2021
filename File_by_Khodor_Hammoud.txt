@@ -1,10 +1,6 @@
 This is a sample file
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+this line has been added by Rémi GUIGUET
 Added by Vianney Gonnot
-=======
->>>>>>> 466e8f21bcd84f9800bd66e966a438d00bb538e1
 Added by Guillaume Jaouen
 added by Alexandre LE DEUF
 added by Camille Omne
@@ -17,3 +13,4 @@ added by Quentin Courtois
 Added by Guillaume Etendard
 Added by Owen
 this line has been added by Rémi GUIGUET
+Added by Alexandra GONCALVES
