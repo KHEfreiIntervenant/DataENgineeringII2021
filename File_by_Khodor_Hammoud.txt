@@ -1,2 +1,7 @@
 This is a sample file
+<<<<<<< HEAD
 Alexandra GONCALVES
+=======
+this line has been added by Rémi GUIGUET
+
+>>>>>>> 8d5b111eae66fdefaa8bccd88c65f386e6023e79
