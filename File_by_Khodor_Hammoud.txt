@@ -1,4 +1,10 @@
 This is a sample file
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Added by Vianney Gonnot
+=======
+>>>>>>> 466e8f21bcd84f9800bd66e966a438d00bb538e1
 Added by Guillaume Jaouen
 added by Alexandre LE DEUF
 added by Camille Omne
