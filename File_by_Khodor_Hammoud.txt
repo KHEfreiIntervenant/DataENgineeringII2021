@@ -1,10 +1,23 @@
 This is a sample file
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added by Guillaume Jaouen
 =======
 <<<<<<< HEAD
-added by Quentin Courtois
 =======
+added by Alexandre LE DEUF
+added by Camille Omne
+Added by Tom TEA. 
+Added by Elodie Gueuret
+Added by Louis G.
+Omar ALLOUACHE
+>>>>>>> 7ee249dc19f87c15b6e9277f377767ce054fd9e6
+added by Quentin Courtois
 Added by Guillaume Etendard
+<<<<<<< HEAD
 >>>>>>> ce15217ee85dee37b61f134003ac12da115427c4
 >>>>>>> 5d009147b8f38b560389e31c557d4f36c1281d4f
+=======
+Added by Owen
+this line has been added by Rémi GUIGUET
+>>>>>>> 7ee249dc19f87c15b6e9277f377767ce054fd9e6
