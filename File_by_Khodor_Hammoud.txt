@@ -1,6 +1,13 @@
 This is a sample file
-<<<<<<< HEAD
+Added by Guillaume Jaouen
+added by Alexandre LE DEUF
+added by Camille Omne
+Added by Tom TEA. 
+Added by Elodie Gueuret
+Added by Louis G.
+Added by Omar Allouache.
+Omar ALLOUACHE
 added by Quentin Courtois
-=======
 Added by Guillaume Etendard
->>>>>>> ce15217ee85dee37b61f134003ac12da115427c4
+Added by Owen
+this line has been added by Rémi GUIGUET
