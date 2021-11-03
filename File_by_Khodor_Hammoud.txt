@@ -1,5 +1,6 @@
 This is a sample file
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added by Tom TEA. 
 =======
 <<<<<<< HEAD
@@ -8,3 +9,6 @@ added by Quentin Courtois
 Added by Guillaume Etendard
 >>>>>>> ce15217ee85dee37b61f134003ac12da115427c4
 >>>>>>> 5d009147b8f38b560389e31c557d4f36c1281d4f
+=======
+Omar ALLOUACHE
+>>>>>>> 3c8416ebfdec6f119a41c04ef337e41c9abdaf2c
