@@ -1,6 +1,10 @@
 This is a sample file
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added by Louis G.
+=======
+Omar ALLOUACHE
+>>>>>>> c92d4ff77c6567850b52d306ec502536e91d4ae9
 =======
 <<<<<<< HEAD
 added by Quentin Courtois
