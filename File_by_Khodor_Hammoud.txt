@@ -1,4 +1,5 @@
 This is a sample file
+<<<<<<< HEAD
 Added by Elodie Gueuret
 
 
@@ -10,3 +11,18 @@ Added by Elodie Gueuret
 
 
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Added by Louis G.
+=======
+Omar ALLOUACHE
+>>>>>>> c92d4ff77c6567850b52d306ec502536e91d4ae9
+=======
+<<<<<<< HEAD
+added by Quentin Courtois
+=======
+Added by Guillaume Etendard
+>>>>>>> ce15217ee85dee37b61f134003ac12da115427c4
+>>>>>>> 5d009147b8f38b560389e31c557d4f36c1281d4f
+>>>>>>> 392b2f44b71911117803902a98be15631e448dd5
